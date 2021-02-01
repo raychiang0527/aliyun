@@ -1,4 +1,4 @@
-﻿from aliyunsdkcore.client import AcsClient
+from aliyunsdkcore.client import AcsClient
 from aliyunsdkcore.request import CommonRequest
 import json
 import requests
